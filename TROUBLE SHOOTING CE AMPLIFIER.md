@@ -7,7 +7,10 @@
 
 
 ## Tabulations 
+![517529977-5b8d99cf-2743-43a8-95a0-5c9c44dc0fcf](https://github.com/user-attachments/assets/5a9ed8a5-4290-46c5-8f7e-31dc9ba9e579)
 
 ## Semilog Graph
+<img width="1280" height="967" alt="517530255-ecb99af2-75f9-49d9-9450-ba042304f8bf" src="https://github.com/user-attachments/assets/c6d76752-58a6-4bae-bfac-138bd7a39a6f" />
 
-<img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+![517530496-83562a7e-d346-4f77-ac8e-f0332fa49a84](https://github.com/user-attachments/assets/068d7b40-b871-49d2-8a58-1730dee44261)
+
