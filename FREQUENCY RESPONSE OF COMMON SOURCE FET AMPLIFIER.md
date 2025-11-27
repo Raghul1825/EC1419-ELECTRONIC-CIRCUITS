@@ -8,7 +8,9 @@
 
 
 # Tabulation with readings
+![517535755-d47c52a2-33c4-4aa5-9923-82ab1cbaec20](https://github.com/user-attachments/assets/f13e0fee-01aa-4018-a62d-38a9854060b9)
 
 ## Semilog plotted Graph
+![517535799-f2e34f00-860c-4946-998e-dd6760529f82](https://github.com/user-attachments/assets/5e77ef39-54d8-417b-b546-815b95231edb)
+![517536168-d1097927-c7ba-4eab-abe4-85779824ecbe](https://github.com/user-attachments/assets/224f1e3b-d13c-450e-b1d4-48537f1d463f)
 
-<img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
